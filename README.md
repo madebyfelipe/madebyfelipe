@@ -1,6 +1,11 @@
-### Hi there 👋
+### Aobakk
+
 
 <!--
+Eu me chamo Felipe, sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial
+Atualmente trabalho na Schaeffler como aprendiz administrativo
+
+
 **BlakeBrad/BlakeBrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
