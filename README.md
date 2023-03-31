@@ -16,11 +16,11 @@
   </a>
 </div>
 
-Eu sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial 🖥
+🖥 Eu sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial;
 
-Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI 🤵
+🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; 
 
-Amo jogar Valorant e sair com meus amigos ❤
+❤ Amo jogar Valorant e sair com meus amigos. 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
