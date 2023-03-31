@@ -20,11 +20,13 @@
   </a>
 </div>
 
+
 🖥 Eu sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial;
 
 🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; 
 
 ❤ Amo jogar Valorant(Skarlxrd#Deus) e sair com meus amigos. 
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
@@ -40,13 +42,9 @@
 
 <div align = "center">
   
-    |![](https://github-readme-stats.vercel.app/api?username=madebyfelipe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyfelipe&layout=compact&theme=synthwave&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=madebyfelipe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyfelipe&layout=compact&theme=synthwave&langs_count=10)|
    |-|-|
 
-      <img width = "825em" src="https://raw.githubusercontent.com/madebyfelipe/madebyfelipe/output/github-contribution-grid-snake.svg" />
-
-  <br>
-    <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blakebrad" alt="blakebrad"/></p></p>
-  <br>
-
+<img width = "825em" src="https://raw.githubusercontent.com/madebyfelipe/madebyfelipe/output/github-contribution-grid-snake.svg" />
 </div>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blakebrad" alt="blakebrad"/></p></p>
