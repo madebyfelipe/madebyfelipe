@@ -40,3 +40,9 @@
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=blakebrad&show_icons=true&show_icons=true&theme=synthwave&count_private=true" />
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakebrad&show_icons=true&theme=synthwave&count_private=true"/>
 </div>
+
+![snake](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg)
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blakebrad" alt="blakebrad"/> </p>  </p>
+<br>
