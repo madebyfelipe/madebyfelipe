@@ -45,7 +45,7 @@
 -->
 <div align = "center">
   
-  |![](https://github-readme-stats.vercel.app/api?username=blakebrad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=blakebrad&layout=compact&theme=synthwave&langs_count=10)|
+  |![](https://github-readme-stats.vercel.app/api?username=madebyfelipe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyfelipe&layout=compact&theme=synthwave&langs_count=10)|
  |-|-|
   
   <img width = "825em" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg" />
