@@ -16,7 +16,7 @@
   </a>
   
   <a href = "https://www.linkedin.com/in/madebyfelipe/">
-    <img src="https://img.shields.io/badge/Linkedin-d83b7d?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-1e0e31?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
 
