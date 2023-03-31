@@ -16,8 +16,10 @@
   </a>
 </div>
 
-Eu sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial
-Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI
+Eu sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial;
+
+Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI.
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
