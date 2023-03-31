@@ -18,7 +18,9 @@
 
 Eu sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial;
 
-Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI.
+Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI;
+
+Amo jogar Valorant e sair com meus amigos
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
@@ -31,24 +33,6 @@ Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administr
 
 ---
 <div align = "left">  
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=blakebrad&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakebrad&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=blakebrad&show_icons=true&show_icons=true&theme=synthwave&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakebrad&show_icons=true&theme=synthwave&count_private=true"/>
 </div>
-<!--
-Eu me chamo Felipe, sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial
-Atualmente trabalho na Schaeffler como aprendiz administrativo
-
-
-**BlakeBrad/BlakeBrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
