@@ -30,7 +30,10 @@ Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administr
 </div>
 
 ---
-
+<div align = "left">  
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=blakebrad&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakebrad&show_icons=true&theme=bear&count_private=true"/>
+</div>
 <!--
 Eu me chamo Felipe, sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial
 Atualmente trabalho na Schaeffler como aprendiz administrativo
