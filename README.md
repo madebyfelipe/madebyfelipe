@@ -3,7 +3,7 @@
 # Olá, pode me chamar de Felipe :)
 
 <div id="badges">  
-  <a href = "https://www.youtube.com/@AragamiTW">
+  <a href = "https://youtube.com/@AragamiTW">
   <img src="https://img.shields.io/badge/YouTube-d83b7d?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   
