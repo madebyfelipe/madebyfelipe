@@ -47,4 +47,4 @@
 
 <img width = "825em" src="https://raw.githubusercontent.com/madebyfelipe/madebyfelipe/output/github-contribution-grid-snake.svg" />
 </div>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blakebrad" alt="blakebrad"/></p></p>
+<img align="center" src="https://profile-counter.glitch.me/madebyfelipe/count.svg" />
