@@ -27,6 +27,8 @@ Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administr
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 <!--
 Eu me chamo Felipe, sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial
 Atualmente trabalho na Schaeffler como aprendiz administrativo
