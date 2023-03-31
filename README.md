@@ -29,13 +29,13 @@
 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://img.shields.io/badge/html5%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/css3%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/react%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/threejs%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/git%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ---
 
