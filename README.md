@@ -14,6 +14,10 @@
   <a href = "https://twitter.com/aragxmi">
     <img src="https://img.shields.io/badge/Twitter-d83b7d?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  <a href = "https://www.linkedin.com/in/madebyfelipe/">
+    <img src="https://img.shields.io/badge/Linkedin-d83b7d?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
 </div>
 
 🖥 Eu sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial;
