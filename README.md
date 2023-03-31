@@ -24,7 +24,7 @@
 
 🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; 
 
-❤ Amo jogar Valorant e sair com meus amigos. 
+❤ Amo jogar Valorant(Skarlxrd#Deus) e sair com meus amigos. 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
@@ -40,29 +40,13 @@
 
 <div align = "center">
   
-  |![](https://github-readme-stats.vercel.app/api?username=madebyfelipe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyfelipe&layout=compact&theme=synthwave&langs_count=10)|
- |-|-|
-  
-  <div width = "825em">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-      <img alt="github-snake" src="github-snake.svg" />
-    </picture>
-  </div>
-  
-<br>
-  <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blakebrad" alt="blakebrad"/></p></p>
-<br>
+    |![](https://github-readme-stats.vercel.app/api?username=madebyfelipe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyfelipe&layout=compact&theme=synthwave&langs_count=10)|
+   |-|-|
+
+      <img width = "825em" src="https://raw.githubusercontent.com/madebyfelipe/madebyfelipe/output/github-contribution-grid-snake.svg" />
+
+  <br>
+    <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=blakebrad" alt="blakebrad"/></p></p>
+  <br>
 
 </div>
-
-
-<!--
-
-      <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-<img width = "825em" src="https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/output/github-contribution-grid-snake.svg" />
-<div align = "center" width="1000em">  
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=blakebrad&show_icons=true&show_icons=true&theme=synthwave&count_private=true" />
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakebrad&show_icons=true&theme=synthwave&count_private=true"/>
-</div>
--->
