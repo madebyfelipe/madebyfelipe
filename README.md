@@ -19,17 +19,17 @@
     <img src="https://img.shields.io/badge/Linkedin-1e0e31?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
-
 <br>
-🖥 Sou um estudante autodidata de desenvolvimento web, artes digitais e audiovisual;
 
-👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas no SENAC e técnico formado pela ETEC Fernando Prestes;
+🖥 Sou um estudante autodidata de desenvolvimento web, artes digitais e audiovisual;<br>
 
-🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; 
+👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas no SENAC e técnico formado pela ETEC Fernando Prestes;<br>
+
+🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; <br>
 
 ❤ Amo jogar Valorant (Main Jett, Gold 1) e sair com meus amigos. 
-<br>
 
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
