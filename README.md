@@ -20,7 +20,7 @@
   </a>
 </div>
 
-
+<br>
 🖥 Sou um estudante autodidata de desenvolvimento web, artes digitais e audiovisual;
 
 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas no SENAC e técnico formado pela ETEC Fernando Prestes;
@@ -28,6 +28,7 @@
 🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; 
 
 ❤ Amo jogar Valorant (Main Jett, Gold 1) e sair com meus amigos. 
+<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
