@@ -23,6 +23,8 @@
 
 🖥 Eu sou um estudante autodidata de desenvolvimento web, artes digitais e marketing empresarial;
 
+👨‍🎓 Estou graduando em Análise e Desenvolvimento de Sistemas no SENAC e sou técnico formado pela ETEC Fernando Prestes;
+
 🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; 
 
 ❤ Amo jogar Valorant (Skarlxrd#Deus, Gold 1) e sair com meus amigos. 
