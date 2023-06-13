@@ -27,7 +27,7 @@
 
 🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; <br>
 
-❤ Amo jogar Valorant (Main Jett, Gold 1) e sair com meus amigos. 
+❤ Amo jogar Valorant (Main Chamber, Gold 2) e sair com meus amigos. 
 
 <br>
 <div>
@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
 </div>
 
   
