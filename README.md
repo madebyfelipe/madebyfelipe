@@ -27,7 +27,7 @@
 
 🤵 Atualmente trabalho na Schaeffler como aprendiz administrativo e curso Administração no SENAI; <br>
 
-❤ Amo jogar Valorant (Main Chamber, Gold 2) e sair com meus amigos. 
+❤ Amo jogar Valorant (Main Chamber, Plat 1) e sair com meus amigos. 
 
 <br>
 <div>
